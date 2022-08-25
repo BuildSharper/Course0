@@ -8,7 +8,7 @@ namespace BuildSharper.Course0.WelcomeApp
         {
             Console.WriteLine("What's your name?");
             var name = Console.ReadLine();
-            Console.WriteLine($"Welcome to the Builder Club, {name}!");
+            Console.WriteLine($"Welcome to BuildSharper.com, {name}!");
         }
     }
 }
